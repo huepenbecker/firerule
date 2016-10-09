@@ -1,6 +1,6 @@
 # firerule
 
-dieses program soll helfen. es versuchts zumindest.
+dieses [program](https://github.com/huepenbecker/firerule) soll helfen. es versuchts zumindest.
 
 ## git'n shit
 
